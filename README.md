@@ -9,7 +9,7 @@ Blog博客，python web app
 
 2.项目结构
 
-bug： 打开网址 127.0.0.1：9000 下载，需要添加网页类型 content_type="text/html"
+***bug： 打开网址 127.0.0.1：9000 下载，需要添加网页类型 content_type="text/html"***
 
 # 2 编写ORM对象关系映射
 
