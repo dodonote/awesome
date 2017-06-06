@@ -14,3 +14,4 @@ Blog博客，python web app
 # 2 编写ORM对象关系映射
 
 1. def log记录日志
+2. 编写 orm 代码 Model
