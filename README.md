@@ -15,3 +15,8 @@ Blog博客，python web app
 
 1. def log记录日志
 2. 编写 orm 代码 Model
+
+# 3 编写 Model
+
+1.引入 orm
+
