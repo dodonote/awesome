@@ -18,5 +18,8 @@ Blog博客，python web app
 
 # 3 编写 Model
 
-1.引入 orm
+1.引入 orm 
+2. 创建商住统计
+
+# 4 编写 轻量 web框架
 
