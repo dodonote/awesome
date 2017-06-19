@@ -18,8 +18,25 @@ Blog博客，python web app
 
 # 3 编写 Model
 
-1.引入 orm 
+1. 引入 orm 
 2. 创建商住统计
 
 # 4 编写 轻量 web框架
+1. coroweb.py
+
+# 5编写配置文件
+1. config.py
+2. config_default.py
+3. config_override.py
+
+# 6编写MVC
+
+# 7构建前端
+1. blog.html
+
+# 8编写API
+
+# 9用户注册和登录
+
+# 10编写日志创建页
 
