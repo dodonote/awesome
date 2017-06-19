@@ -37,6 +37,16 @@ Blog博客，python web app
 # 8编写API
 
 # 9用户注册和登录
+1. manage_blogs_edit.html
 
 # 10编写日志创建页
+1. manage_blogs.html
+
+# 11编写日志列表页
+1. manage_blogs.html
+
+# 12提升开发效率
+1. 编写 pymonitor.py 监控自动重启脚本
+2. wagiapp.py
+3. liveReload、 liveStyle chrome 插件
 
