@@ -51,3 +51,11 @@ Blog博客，python web app
 3. liveReload、 liveStyle chrome 插件
 
 # 13建立分支
+1. testing
+
+# 14合并分支 testing
+1. git checkout master
+2. git merge testing
+
+# 15完成 web app
+1. web app 完成 2017-06-21
